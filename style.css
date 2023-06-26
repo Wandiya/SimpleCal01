@@ -5,6 +5,9 @@
     box-sizing: border-box;
 }
 
+
+/* conatiner styles */
+
 .container {
     width: 100%;
     height: 100vh;
@@ -13,6 +16,9 @@
     align-items: center;
     justify-content: center;
 }
+
+
+/* calculator styles */
 
 .calculator {
     background: #304452;
@@ -33,6 +39,9 @@
     cursor: pointer;
     margin: 10px;
 }
+
+
+/* form styles */
 
 form .display {
     display: flex;
